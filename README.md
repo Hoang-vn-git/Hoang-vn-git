@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Huy Hoang Nguyenn</h1>
+<h3 align="center">🚀 A programming student based in Toronto, Canada</h3>
 
-<!--
-**Hoang-vn-git/Hoang-vn-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+</p>
+
+---
+
+### 📚 About Me
+
+- 💻 Currently studying **Computer Programming at Humber Polytechnic**
+- 📌 Living in **Toronto, Ontario, Canada**
+- 🚀 Learning: **React.js, JavaScript, Java, SQL, Git**
+- 🎯 2025 Goal: Master **Web Development and Application Development**
+
+---
+
+### 🔗 Connect with Me
+
+- 📧 Email: nguyenhhoang.hhn@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/huyhoangnguyenvn/ 
+- 🌐 Portfolio: coming soon...
+
+---
+
+> “Learning to code is like learning a superpower. Use it to create, solve, and grow.”
