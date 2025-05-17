@@ -30,7 +30,7 @@
 
 - 📧 Email: nguyenhhoang.hhn@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/huyhoangnguyenvn/ 
-- 🌐 Portfolio: coming soon...
+- 🌐 Portfolio: https://e-portfolio-weld.vercel.app/
 
 ---
 
