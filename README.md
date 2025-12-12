@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huy Hoang Nguyenn</h1>
-<h3 align="center">🚀 A programming student based in Toronto, Canada</h3>
+<h3 align="center">A programming student based in Toronto, Canada</h3>
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -17,16 +17,16 @@
 
 ---
 
-### 📚 About Me
+### About Me
 
-- 💻 Currently studying **Computer Programming & Analysis at Humber Polytechnic**
-- 📌 Living in **Toronto, Ontario, Canada**
-- 🚀 Learning: **React.js, JavaScript, Java, SQL, Git**
-- 🎯 2025 Goal: Master **Web Development and Application Development**
+- Currently studying **Computer Programming & Analysis at Humber Polytechnic**
+- Living in **Toronto, Ontario, Canada**
+- Learning: **React.js, JavaScript, Java, SQL, Git**
+- 2025 Goal: Master **Web Development and Application Development**
 
 ---
 
-### 🔗 Connect with Me
+### Connect with Me
 
 - 📧 Email: nguyenhhoang.hhn@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/huyhoangnguyenvn/ 
