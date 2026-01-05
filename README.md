@@ -22,7 +22,7 @@
 - Currently studying **Computer Programming & Analysis at Humber Polytechnic**
 - Living in **Toronto, Ontario, Canada**
 - Learning: **React.js, JavaScript, Java, SQL, Git**
-- 2025 Goal: Master **Web Development and Application Development**
+- 2026 Goal: Master **Web Development and Application Development**
 
 ---
 
