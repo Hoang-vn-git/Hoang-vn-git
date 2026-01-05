@@ -29,8 +29,7 @@
 ### Connect with Me
 
 - 📧 Email: nguyenhhoang.hhn@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/huyhoangnguyenvn/ 
-- 🌐 Portfolio: https://e-portfolio-weld.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/huyhoangnguyenvn/
 
 ---
 
